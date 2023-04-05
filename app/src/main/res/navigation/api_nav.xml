@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/api_nav"
+    app:startDestination="@id/api_fetch">
+    <fragment
+        android:id="@+id/api_fetch"
+        android:name="com.example.finalandroid.API.api_fetch"
+        android:label="fragment_api_fetch"
+        tools:layout="@layout/fragment_api_fetch" />
+</navigation>

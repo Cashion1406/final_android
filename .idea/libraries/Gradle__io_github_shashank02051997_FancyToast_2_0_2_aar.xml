@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.shashank02051997:FancyToast:2.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15f56105dff3e54ae2d9edac889da994/transformed/FancyToast-2.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15f56105dff3e54ae2d9edac889da994/transformed/FancyToast-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15f56105dff3e54ae2d9edac889da994/transformed/FancyToast-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15f56105dff3e54ae2d9edac889da994/transformed/FancyToast-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.shashank02051997/FancyToast/2.0.2/3bedaf97128bbbe003bc704d23185551996f8432/FancyToast-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.shashank02051997/FancyToast/2.0.2/b3a0b942fa5f896f903fc82cb5c6dc973e9c85c0/FancyToast-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
